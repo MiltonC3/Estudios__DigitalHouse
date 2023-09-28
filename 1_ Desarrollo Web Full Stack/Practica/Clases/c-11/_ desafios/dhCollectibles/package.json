@@ -1,8 +1,8 @@
 {
-  "name": "desafio-1",
+  "name": "extras",
   "version": "1.0.0",
   "description": "",
-  "main": "datosBici.js",
+  "main": "collectibles.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

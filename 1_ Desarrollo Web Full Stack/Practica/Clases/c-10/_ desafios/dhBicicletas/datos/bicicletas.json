@@ -9,7 +9,7 @@
     "pesoKg": 13,
     "tipo": "Montañera",
     "precio": 79000,
-    "vendida": false
+    "vendida": "no"
   },
   {
     "id": 1,
@@ -21,7 +21,7 @@
     "pesoKg": 15,
     "tipo": "Paseo",
     "precio": 72000,
-    "vendida": false
+    "vendida": "no"
   },
   {
     "id": 2,
@@ -33,7 +33,7 @@
     "pesoKg": 16,
     "tipo": "Retro",
     "precio": 81000,
-    "vendida": false
+    "vendida": "no"
   },
   {
     "id": 3,
@@ -45,66 +45,66 @@
     "pesoKg": 17,
     "tipo": "Triatlón",
     "precio": 75000,
-    "vendida": false
+    "vendida": "no"
   },
   {
     "id": 4,
     "marca": "TopMega",
     "modelo": "Techno",
-    "rodado": 24,
+    "rodado": 16,
     "anio": 2023,
     "color": "rojo",
     "pesoKg": 14,
     "tipo": "Paseo",
     "precio": 89000,
-    "vendida": false
+    "vendida": "no"
   },
   {
     "id": 5,
     "marca": "FSLP",
     "modelo": "Ruta",
-    "rodado": 22,
+    "rodado": 26,
     "anio": 2017,
     "color": "naranja",
     "pesoKg": 12,
     "tipo": "Montañera",
     "precio": 69000,
-    "vendida": false
+    "vendida": "no"
   },
   {
     "id": 6,
     "marca": "Halley",
     "modelo": "mountain",
-    "rodado": 29,
+    "rodado": 16,
     "anio": 2018,
     "color": "celeste",
     "pesoKg": 15,
     "tipo": "Retro",
     "precio": 79000,
-    "vendida": false
+    "vendida": "no"
   },
   {
     "id": 7,
     "marca": "Fierce",
     "modelo": "bike",
-    "rodado": 21,
+    "rodado": 29,
     "anio": 2016,
     "color": "celeste",
     "pesoKg": 14,
     "tipo": "Triatlón",
     "precio": 79000,
-    "vendida": false
+    "vendida": "no"
   },
   {
     "id": 8,
     "marca": "Fixie",
     "modelo": "drim",
-    "rodado": 22,
+    "rodado": 28,
     "anio": 2020,
     "color": "celeste",
     "pesoKg": 13,
     "tipo": "Montañera",
     "precio": 79000,
-    "vendida": false
+    "vendida": "no"
   }
 ]
