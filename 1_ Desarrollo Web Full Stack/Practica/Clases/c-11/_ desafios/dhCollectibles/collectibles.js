@@ -21,7 +21,7 @@ const importar = (marca) => {
       return figuras3;
       break;
     default:
-      return 'No existe'
+      return "No existe";
   }
 };
 
